@@ -1,2 +1,7 @@
 benchmark/images/
 *.pyc
+train_with_ori/
+models/
+human_annos_subset/
+slurm*.out
+Reconstruction_images_with_score/
